@@ -17,7 +17,7 @@
 		},
 		{
 			"Name": "MetaHuman",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "HairStrands",
@@ -40,6 +40,10 @@
 		},
 		{
 			"Name": "Landmass",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
 			"Enabled": true
 		}
 	]
